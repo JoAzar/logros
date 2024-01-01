@@ -6,5 +6,6 @@
  <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif"/>
 </div>
 <br>
-
-<img src="https://github.com/JoAzar/logros/blob/main/monkeyGif/mono2.gif">
+<div aign="center">
+ <img src="https://github.com/JoAzar/logros/blob/main/monkeyGif/mono2.gif">
+</div>
